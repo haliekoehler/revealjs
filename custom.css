@@ -1,0 +1,25 @@
+@import url("https://use.typekit.net/egs7asl.css");
+html, body {
+  font-family: montserrat, sans-serif !important;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 2.5em;
+  font-weight: 400;
+}
+
+.reveal h1, .reveal h2 {
+  text-align: left;
+  color: white;
+}
+.reveal .swap-text {
+  font-weight: 500;
+  font-size: 2em;
+}
+
+/*# sourceMappingURL=custom.css.map */
